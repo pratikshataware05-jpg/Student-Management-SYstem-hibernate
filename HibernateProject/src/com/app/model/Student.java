@@ -14,6 +14,7 @@ public class Student {
 	private String lname;
 	private String address;
 	private Long mobno;
+	
 	public int getRollno() {
 		return rollno;
 	}
